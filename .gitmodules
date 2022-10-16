@@ -16,3 +16,6 @@
 [submodule "chapter_06"]
 	path = chapter_06
 	url = https://github.com/said-yolcu/learn_node_ch_6.git
+[submodule "chapter_03_input_check"]
+	path = chapter_03_input_check
+	url = https://github.com/said-yolcu/learn_node_ch_3_input_check.git
