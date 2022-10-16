@@ -13,3 +13,6 @@
 [submodule "chapter_05"]
 	path = chapter_05
 	url = https://github.com/said-yolcu/learn_node_ch_5.git
+[submodule "chapter_06"]
+	path = chapter_06
+	url = https://github.com/said-yolcu/learn_node_ch_6.git
